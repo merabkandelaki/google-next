@@ -20,3 +20,4 @@ export default function CountryLookup() {
   }, []);
   return <div>{country}</div>;
 }
+
